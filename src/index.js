@@ -13,5 +13,5 @@ ReactDOM.render(
       </ConnectedRouter>
   </Provider>,
   document.getElementById('root')
-  function {props.funct1}
+  function {getComputedStyle}
 );
