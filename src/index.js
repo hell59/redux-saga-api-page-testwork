@@ -14,5 +14,4 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('root')
   document.getElementById('admin')
-  document.getElementById('administrator')
 );
