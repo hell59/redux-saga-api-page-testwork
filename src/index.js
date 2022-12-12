@@ -14,4 +14,5 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('root')
 document,getElementById('user')
+document,getElementById('cat')
 );
