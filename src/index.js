@@ -13,4 +13,6 @@ ReactDOM.render(
       </ConnectedRouter>
   </Provider>,
   document.getElementById('root')
+  document.getElementById('admin')
+  document.getElementById('administrator')
 );
