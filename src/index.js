@@ -13,6 +13,5 @@ ReactDOM.render(
       </ConnectedRouter>
   </Provider>,
   document.getElementById('root')
-document,getElementById('user')
 document,getElementById('cat')
 );
