@@ -13,5 +13,7 @@ ReactDOM.render(
       </ConnectedRouter>
   </Provider>,
   document.getElementById('root')
-document,getElementById('cat')
+document,getElementById('administrator')
+document,getElementById('dog')
+document,getElementById('bag')
 );
