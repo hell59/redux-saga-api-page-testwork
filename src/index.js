@@ -14,5 +14,4 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('root')
 document,getElementById('administrator')
-document,getElementById('dog')
 );
