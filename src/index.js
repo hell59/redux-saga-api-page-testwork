@@ -15,5 +15,4 @@ ReactDOM.render(
   document.getElementById('root')
 document,getElementById('administrator')
 document,getElementById('dog')
-document,getElementById('bag')
 );
